@@ -1,0 +1,8 @@
+katmanli mimari kullanarak yaptigim projenin Presentation Layeri Windows form ile olusturdum. Business Layer'da services kullandim. Data Layerda ise repositori ile datalari olusturdum. Projemi code first ile ayaga kaldirdim.
+
+I created the Presentation Layer of the project I made using a layered architecture with a Windows form. I used services in Business Layer. On the Data Layer, I created the data with repositories. I set up the project with code first.
+
+proje oncesinden olusturdugumuz gereksinim analizi dokumanina proje surecinde eklemeler yaptik. 
+Urun tanitimi icin olusturdugumuz sunumu musterilerimize sunduk. Ekip arkadaslarima tesekkurler.
+
+I made additions to the needs analysis document that we created before the project during the project process. We presented the presentation we created for product promotion to our customers. Thanks to my teammates.
